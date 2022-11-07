@@ -1,0 +1,10 @@
+yfinance==0.1.67
+plotly==5.4.0
+scikit-learn==1.0.1
+pandas-datareader==0.10.0
+tweepy==4.4.0
+matplotlib==3.5.0
+textblob==0.15.3
+tensorflow>2.7.0
+yahoo_fin==0.8.9.1
+openpyxl==3.0.9
